@@ -8,3 +8,8 @@ def multi(a, b):
 	return a * b
 
 print(multi(a, b))
+
+def add(a , b):
+	return a + b
+
+print(add(a, b))
