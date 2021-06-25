@@ -11,3 +11,7 @@ def strcat():
 strcat()
 
 print(len(var1 + var2))
+
+def count_len(obj):
+	return len(obj)
+
