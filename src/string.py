@@ -9,3 +9,5 @@ def strcat():
 	print("strcat")
 
 strcat()
+
+print(len(var1 + var2))
