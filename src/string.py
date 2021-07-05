@@ -12,3 +12,6 @@ strcat()
 
 print(len(var1 + var2))
 str = 'ab'
+
+
+print("new line")
