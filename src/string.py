@@ -15,3 +15,4 @@ str = 'ab'
 
 
 print("new line")
+print("new line")
